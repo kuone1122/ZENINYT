@@ -1,0 +1,9 @@
+serverBaseUrl=https://xkaygamex.com/CODM
+gameActivity=com.tencent.tmgp.cod.CODMainActivity 
+
+appTitle=USER CHEAT CODM
+
+game1=USER CHEAT V1|libmain.so|LOW END DEVICE. This version is optimized for low-end devices and forcing max FPS.
+
+
+game2=USER CHEAT V2 SkinHacks|libace2.so| VIP USERS. You can only login using a VIP KEY.
