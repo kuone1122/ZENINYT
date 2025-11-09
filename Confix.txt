@@ -6,4 +6,4 @@ appTitle=USER CHEAT CODM
 game1=USER CHEAT V1|libmain.so|LOW END DEVICE. This version is optimized for low-end devices and forcing max FPS.
 
 
-game2=USER CHEAT V2 SkinHacks|libace2.so| VIP USERS. You can only login using a VIP KEY.
+game2=USER CHEAT V2 SkinHacks|libmain1.so| UI . You can ONLY.
