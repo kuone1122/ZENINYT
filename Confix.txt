@@ -1,4 +1,4 @@
-serverBaseUrl=https://xkaygamex.com/CODM
+serverBaseUrl=https://xkaygamex.com/public/file/
 gameActivity=com.tencent.tmgp.cod.CODMainActivity 
 
 appTitle=USER CHEAT CODM
