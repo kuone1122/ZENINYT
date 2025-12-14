@@ -3,6 +3,6 @@ gameActivity=com.tencent.tmgp.cod.CODMainActivity
 
 appTitle=USER CHEAT CODM
 
-game1=บายพาส V1|libmain.so| USER CHEAT. บายพาสตัวที่1.
+game1=USER CHEAT NEW|libmain.so| USER CHEAT. บายพาสตัวที่1.
 
 game2=บายพาส V2|libace2.so| USER CHEAT. บายพาสตัวที่2.
